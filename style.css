@@ -19,6 +19,12 @@ li {
     list-style: none;
 }
 
+small {
+    display: block;
+    color: #222;
+    font-style: italic;
+}
+
 body {
     padding: 20px;
     font-size: 18px;
