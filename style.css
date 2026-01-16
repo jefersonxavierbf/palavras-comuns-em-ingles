@@ -4,13 +4,6 @@
     box-sizing: border-box;
 }
 
-html, body {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden; /* Evita que a tela balance para os lados */
-  touch-action: pan-y; /* Melhora a resposta do scroll vertical no celular */
-}
-
 h1 {
     margin-top: 50px;
     
