@@ -26,6 +26,13 @@ small {
 }
 
 body {
+    margin: 0;
+    padding: 20px; /* Ou o quanto achar necessário para não grudar na borda */
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: #ffffff; /* Fundo branco para bater com o padrão da Kiwify */
+}
+
+body {
     padding: 20px;
     font-size: 18px;
     font-family: sans-serif;
